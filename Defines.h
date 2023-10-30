@@ -6,10 +6,7 @@
 enum life_states
 {
 	LIFE_ALIVE,
-	LIFE_DYING,
 	LIFE_DEAD,
-	LIFE_RESPAWNABLE,
-	LIFE_DISCARDBODY
 };
 
 enum player_flags
