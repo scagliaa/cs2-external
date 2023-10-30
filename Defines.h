@@ -25,6 +25,6 @@ enum player_flags
 enum team
 {
 	TEAM_SPECTATOR = 1,
-	TEAM_RED = 2,
-	TEAM_BLU = 3
+	TEAM_TERRORIST = 2,
+	TEAM_CT = 3
 };
